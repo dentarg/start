@@ -10,4 +10,4 @@ chmod +x costart
     bundle install
     bundle exec rackup
 
-Open http://localhost:9292/
+Open [http://localhost:9292/](http://localhost:9292/)
