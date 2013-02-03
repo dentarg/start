@@ -9,3 +9,5 @@ chmod +x costart
     cd dir
     bundle install
     bundle exec rackup
+
+Open http://localhost:9292/
